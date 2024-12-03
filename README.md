@@ -16,4 +16,7 @@ npm install
 ```
 npm run build
 ```
-Upload Build Directory to S3 Bucket
+3. Upload Build Directory to S3 Bucket
+```
+aws s3 cp frontend/build/ s3://my-react-app-123/ --recursive
+```
