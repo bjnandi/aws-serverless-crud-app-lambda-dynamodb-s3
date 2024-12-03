@@ -26,7 +26,7 @@ aws s3 cp frontend/build/ s3://my-react-app-123/ --recursive
 ```
 npm install
 ```
-2. Build Package
+2. Zip Package
 ```
 zip -r lambda.zip *
 ```
