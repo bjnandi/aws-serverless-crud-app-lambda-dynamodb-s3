@@ -66,7 +66,7 @@ const Home = () => {
       {users.map((user) => (
         <div className="card me-3 mt-2 p-0" key={user.id} style={{ width: "18rem" }}>
           <img
-            src={`https://crud-images.s3.us-east-1.amazonaws.com/${user.image}`}
+            src={`https://crud-app-image-12345.s3.us-east-1.amazonaws.com/${user.image}`}
             alt={`${user.name}`}
             className="card-img-top"
             style={{ height: "200px", objectFit: "cover" }}

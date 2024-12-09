@@ -15,8 +15,8 @@ const {
 
 // Constants
 const REGION = 'us-east-1';
-const TABLE_NAME = 'http-crud-tutorial-items';
-const BUCKET_NAME = 'crud-images';
+const TABLE_NAME = 'crud-dynamodb-table';
+const BUCKET_NAME = 'crud-app-image-12345';
 
 // AWS Clients
 const s3 = new S3Client({ region: REGION });
