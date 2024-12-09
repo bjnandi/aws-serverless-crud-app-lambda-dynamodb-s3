@@ -20,3 +20,14 @@ npm run build
 ```
 aws s3 cp frontend/build/ s3://my-react-app-123/ --recursive
 ```
+# Backend
+1. Install Package
+
+```
+npm install
+```
+2. Zip Package
+```
+zip -r lambda.zip *
+```
+3. Upload zip file to lambda
