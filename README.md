@@ -5,10 +5,10 @@ AWS Serverless CRUD App Lambda DynamoDB S3
 Host or deploy our CRUD web application on AWS serverless using Lambda, DynamoDB, API Gateway, and S3 at 100% free of cost. This guide will help you deploy a serverless CRUD web app on AWS.
 
 # Diagram
-[![Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](/Containerize.webp)](https://github.com/bjnandi/aws-serverless-crud-app-lambda-dynamodb-s3 "Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform")
+[![Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](/frontend/src/AWS%20Serverless%20Diagram.jpg)](https://github.com/bjnandi/aws-serverless-crud-app-lambda-dynamodb-s3 "Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform")
 
 # Demo
-[![Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](/Containerize.gif)](https://github.com/bjnandi/aws-serverless-crud-app-lambda-dynamodb-s3 "Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform")
+[![Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](/frontend/src/AWS%20Serverless%20Demo.gif)](https://github.com/bjnandi/aws-serverless-crud-app-lambda-dynamodb-s3 "Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform")
 
 
 ## For more Details
