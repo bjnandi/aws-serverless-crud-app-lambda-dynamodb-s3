@@ -1,7 +1,7 @@
 # aws-serverless-crud-app-lambda-dynamodb-s3
 AWS Serverless CRUD App Lambda DynamoDB S3
 
-# Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform
+### Free Host or Deploy a CRUD Web App on AWS Serverless Using Lambda, DynamoDB, API Gateway, and S3 with Terraform
 Host or deploy our CRUD web application on AWS serverless using Lambda, DynamoDB, API Gateway, and S3 at 100% free of cost. This guide will help you deploy a serverless CRUD web app on AWS.
 
 # Diagram
